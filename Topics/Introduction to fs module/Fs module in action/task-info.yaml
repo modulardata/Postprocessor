@@ -1,0 +1,20 @@
+type: sorting
+options:
+  - "<code>const data = fs.readFile('../paper.txt', 'utf-8', (err, data) =&gt; {</code>"
+  - <code>const fs = require('node:fs');</code>
+  - "<code>});</code>"
+  - <code>if (err) throw err;</code>
+  - <code>console.log(data);</code>
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/25763#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
