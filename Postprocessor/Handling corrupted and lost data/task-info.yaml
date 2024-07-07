@@ -1,0 +1,24 @@
+type: remote_edu
+files:
+  - name: database.csv
+    visible: true
+    learner_created: false
+  - name: main.js
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: test/tests_filtered_database.csv
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/320/stages/1795/implement#comment
+check_profile: hyperskill_node_javascript
+status: Unchecked
+record: -1
